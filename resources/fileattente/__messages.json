@@ -1,0 +1,14 @@
+﻿{
+  "Gathering": "Obtention des informations...",
+  "License": "Une licence est requise",
+  "Steam": "Vous devez être connecté avec Steam",
+  "Banned": "Vous avez été banni",
+  "Whitelist": "Vous n'êtes pas whitelisté",
+  "Queue": "Vous êtes dans la file",
+  "PriorityQueue": "Vous êtes dans une file prioritaire",
+  "Canceled": "Enlevé de la file d'attente",
+  "Error": "An error prevented deferrals",
+  "Timeout": "Temps de connexion dépassé",
+  "QueueCount": "[File d'attente: {0}]",
+  "Symbols": "Caractères spéciaux ou plusieurs espaces non autorisés pour les pseudos"
+}
